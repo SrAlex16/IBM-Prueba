@@ -1,0 +1,20 @@
+[
+  {
+    "id_proveedor": 1,
+    "nombre": "Coca-cola",
+    "fecha_alta": "14/03/2023",
+    "id_cliente": 5
+  },
+  {
+    "id_proveedor": 2,
+    "nombre": "Pepsi",
+    "fecha_alta": "13/03/2023",
+    "id_cliente": 5
+  },
+  {
+    "id_proveedor": 3,
+    "nombre": "Redbull",
+    "fecha_alta": "12/03/2023",
+    "id_cliente": 6
+  }
+]
