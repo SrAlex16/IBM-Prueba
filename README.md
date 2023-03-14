@@ -1,4 +1,4 @@
-<em>Proyecto de consulta de proveedores</em>
+<em font-size:10%>Proyecto de consulta de proveedores</em>
 <p align="left">
 Este proyecto de Java tiene como objetivo consultar una base de datos de proveedores y guardar la información en archivos JSON y de texto plano.</br>
 La clase Main es la clase principal que se ejecuta cuando se inicia la aplicación. En su método main(), se intenta obtener un argumento de línea de comandos, que debe ser un valor numérico. Si el argumento es "1", se llama al método estático getTodos() de la clase Proveedores, que consulta una base de datos de proveedores y guarda la información en archivos JSON y de texto plano.</br>
