@@ -5,7 +5,7 @@ La clase Main es la clase principal que se ejecuta cuando se inicia la aplicaci�
 La clase Proveedores es una clase que representa a los proveedores y tiene varios atributos (id_proveedor, nombre, fecha_alta e id_cliente) y métodos. El método getTodos() es el que realiza la consulta a la base de datos de proveedores, crea una lista de objetos Proveedores a partir de los resultados de la consulta y guarda la información en archivos JSON y de texto plano. Además, el método lanza una excepción NoDataException si no se encuentran datos en la base de datos de proveedores.</br>
 En la carpeta raíz del proyecto se ubica el archivo script.sql donde encontramos el script de base de datos utilizado.</br>
 </p>
-<h4>Requisitos</h4>
+<em>Requisitos</em>
 <p>
 Para ejecutar este proyecto, necesitarás tener instalado lo siguiente:</br>
 </br>
@@ -13,7 +13,7 @@ Para ejecutar este proyecto, necesitarás tener instalado lo siguiente:</br>
 - MySQL Server versión 5.7 o superior</br>
 - Gson versión 2.8.5 o superior</br>
 </p>
-<h4>Instalación</h4>
+<em>Instalación</em>
 <p>
 Para instalar este proyecto, siga los siguientes pasos:</br>
 </br>
